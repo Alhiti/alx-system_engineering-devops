@@ -1,2 +1,2 @@
-#!/bin/bashh
-groups
+#!/bin/bash
+#groups $USERs
