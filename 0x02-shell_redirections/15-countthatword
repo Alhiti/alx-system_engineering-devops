@@ -1,0 +1,2 @@
+-i "bin" /etc/passwd
+mkdir -p welcome/to/school
